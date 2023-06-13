@@ -1,0 +1,50 @@
+CONTRATO DE LICENCIA PARA EL USUARIO FINAL DE AGENDA 2002 v. 1.0
+
+IMPORTANTE - LEA CUIDADOSAMENTE: Este Contrato de Licencia para el Usuario Final AGENDA 2002 ("CLUF") constituye un acuerdo legal entre usted (ya sea una persona física o una persona jurídica) y DSFSOFT. Este CLUF regirá el uso que usted haga del software AGENDA 2002 y de los componentes de software relacionados, incluyendo, materiales impresos y documentación "en línea" o electrónica ("PRODUCTO SOFTWARE"). Al instalar, copiar o de otra manera usar el PRODUCTO SOFTWARE usted acepta quedar obligado por los términos del presente CLUF. Si no está de acuerdo con los términos de este CLUF, no instale o use el PRODUCTO SOFTWARE. Si el PRODUCTO SOFTWARE fue adquirido como parte de un paquete de producto DSFSOFT usted deberá devolverlo al lugar donde lo adquirió con el fin de obtener un reembolso total.
+
+El PRODUCTO SOFTWARE se encuentra protegido por leyes de derechos de autor y por tratados internacionales en materia de derechos de autor, así como por otras leyes y tratados sobre propiedad intelectual. El PRODUCTO SOFTWARE se concede bajo licencia y no se vende.
+
+
+1. OTORGAMIENTO DE LICENCIA. El PRODUCTO SOFTWARE se concede bajo licencia según los términos siguientes:
+
+* Uso y Copia. DSFSOFT le concede el derecho a instalar y usar copias del PRODUCTO SOFTWARE en cualquier PC o equipo ubicado en sus instalaciones que posea copias con licencia válida del sistema operativo para el cual el PRODUCTO SOFTWARE fue diseñado (por ejemplo Windows(r) 98; Windows NT(r), Windows XP).
+ 
+* Copias de seguridad (o copias de respaldo): Usted también podrá realizar copias del PRODUCTO SOFTWARE según sea necesario, con el objeto de obtener copias de seguridad (o copia de respaldo) y para archivo.
+ 
+* Algunos componentes del PRODUCTO SOFTWARE se encuentran sujetos a las disposiciones adicionales siguientes:
+
+
+2. DESCRIPCIÓN DE OTROS DERECHOS Y LIMITACIONES.
+
+--Software anterior al lanzamiento. Si algún componente del PRODUCTO SOFTWARE o cualquiera de sus componentes se encuentra marcado como "Anterior al lanzamiento" o "Beta", el componente del PRODUCTO SOFTWARE constituye código anterior al lanzamiento y podrá cambiar substancialmente antes de su lanzamiento comercial. Usted no podrá utilizar dicho componente en ambientes operativos reales en los que se espera que funcione como si se tratara del producto lanzado comercialmente, ni con información que no cuente con copia de seguridad.
+
+--Preservación de Notificaciones de derechos de autor. Usted no podrá quitar o alterar ninguna notificación de derechos de autor de ninguna de las copias del PRODUCTO SOFTWARE.
+
+--Distribución. Usted no podrá distribuir ninguna copia del PRODUCTO SOFTWARE a terceros salvo por lo que se dispone expresamente en la Sección 1.
+
+--Prohibición en materia de ingeniería inversa, decompilación y desamblaje. Usted no podrá utilizar técnicas de ingeniería inversa, decompilar ni desamblar el PRODUCTO SOFTWARE, salvo y en la medida en que dicha actividad esté expresamente permitida por la legislación aplicable, no obstante esta limitación.
+
+--Alquiler. Usted no podrá alquilar, rentar, arrendar ni prestar el PRODUCTO SOFTWARE. 
+
+--Transferencia de Software. Todos los derechos otorgados por el presente CLUF sólo se pueden transferir de manera permanente con la condición de que el receptor esté de acuerdo con los términos del mismo.
+
+--Servicios de Soporte. DSFSOFT podrá proporcionarle los servicios de soporte relacionados con el PRODUCTO SOFTWARE ("Servicios de Soporte"). El uso de los Servicios de Soporte se encuentra regido por las disposiciones y programas DSFSOFT que se describen en el manual del usuario, documentación en línea y/u otros materiales proporcionados por DSFSOFT. Todo código de software complementario que se proporcione como parte de los Servicios de Soporte será considerado parte del PRODUCTO SOFTWARE y estará sujeto a los términos y condiciones de este CLUF. Con respecto a la información técnica que usted proporcione a DSFSOFT como parte de los Servicios de Soporte, DSFSOFT podrá utilizar esa información con fines comerciales, incluso para soporte y desarrollo del producto. DSFSOFT no podrá utilizar esa información de una manera que lo identifique a usted personalmente.
+
+--Cumplimiento de la Ley aplicable. Usted deberá cumplir con todas las leyes aplicables con respecto al uso del PRODUCTO SOFTWARE.
+
+
+3. TERMINACIÓN. Sin perjuicio de cualquier otro derecho, DSFSOFT puede terminar este CLUF en caso de que usted no cumpla con los términos y condiciones del mismo. En este caso, usted deberá destruir todas las copias del PRODUCTO SOFTWARE. 
+
+
+4. PROPIEDAD. La titularidad, incluyendo, pero sin limitarse, los derechos de autor con respecto al PRODUCTO SOFTWARE o a cualquier copia de éste pertenece a DSFSOFT o a sus proveedores. La titularidad y los derechos a la propiedad intelectual en relación al contenido al que se puede obtener acceso a través del uso del PRODUCTO SOFTWARE son propiedad del correspondiente dueño del contenido y pueden estar protegidos por leyes de propiedad intelectual o por otras leyes y tratados sobre propiedad intelectual. El presente CLUF no le otorga a usted ningún derecho en relación a tal contenido. DSFSOFT se reserva todos los derechos no otorgados expresamente.
+
+
+5. AUSENCIA DE GARANTÍAS. DSFSOFT no presta ninguna garantía con respecto al PRODUCTO SOFTWARE. El PRODUCTO SOFTWARE y toda la documentación se proporcionan "como están" sin garantía de ningún tipo, tanto expresa como implícita, incluyendo, sin limitación, las garantías implícitas de comerciabilidad, adecuación para un fin determinado y no infracción. Usted soporta todo riesgo derivado del uso o funcionamiento del PRODUCTO SOFTWARE.
+
+
+6. LIMITACIÓN DE RESPONSABILIDAD. En la medida permitida por la ley aplicable, en ningún caso DSFSOFT o sus proveedores serán responsables por ningún daño, especial, incidental, indirecto o consecuencial, cualquiera que sea (incluyendo sin limitación, daños por pérdida de beneficios, interrupción de negocios, pérdida de información comercial u otra pérdida pecuniaria), que pudiere surgir del uso o imposibilidad de uso del PRODUCTO SOFTWARE o la prestación o fallo en la prestación de los Servicios de Soporte, aún en el caso de que DSFSOFT hubiese sido informado de la posibilidad de dichos daños. En cualquier caso, la única responsabilidad de DSFSOFT ante cualquier disposición de este CLUF se limitará a un monto no mayor del que usted pagó por el PRODUCTO SOFTWARE o a cinco Euros; disponiéndose sin embargo, que si usted se ha comprometido a través de un Contrato de Servicios de Soporte DSFSOFT, la máxima responsabilidad de DSFSOFT en relación a los Servicios de Soporte se regirá por los términos de ese contrato. Debido a que algunos estados y jurisdicciones no permiten la exclusión o limitación de responsabilidad, es posible que la limitación anterior no le resulte aplicable. 
+
+
+7. OTROS.
+El presente CLUF está regido por las leyes de España. 
+

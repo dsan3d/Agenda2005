@@ -1,0 +1,82 @@
+                         PEDIDO Agenda 2002 v. 1.0
+
+
+DATOS PERSONALES.-
+
+Nombre ......: ..............................................
+
+Dirección ...: ..............................................
+
+Población ...: ..............  Provincia .: .................
+
+Código Postal: ..........      Teléfono ..: (...) ...-...-... 
+
+Sugerencias..: ..............................................
+.............................................................
+.............................................................
+.............................................................
+
+
+HARDWARE.-
+
+Tipo de Ordenador: 
+
+Pentium: ....  MMX: ....  PII .: ....
+
+PIII ..: ....  PIV: ....  Otros: ....	
+
+
+Tipo Tarjeta Sonido:
+
+SB8 : ....  SB16 : ....  SB32 : ....
+
+SB64: ....  SB128: ....  Otras: ....
+
+
+Tipo Tarjeta Gráfica:
+
+CGA : ....  EGA : ....  VGA: ....
+
+MCGA: ....  SVGA: ....
+
+
+Tipo Monitor:
+
+COLOR: ....  B/N: ....  FÓSFORO VERDE: ....
+
+
+CARACTERÍSTICAS GRÁFICAS.-
+
+Resolución Ordenador:
+
+640x480 .: ....  800x600: ....  1024x768: ....
+
+1600x1200: ....
+
+
+Colores:
+
+16 Colores: ....  256 Colores: ....  16 Bits: ....
+
+24 Bits ..: ....  32 Bits ...: ....  Otras .: ....
+
+
+PLATAFORMA(SISTEMA OPERATIVO).-
+
+WINDOWS 95: ....  WINDOWS 98: ....  WINDOWS2000: ....
+
+WINDOWS NT: ....  Otros: ............................  
+
+
+        Envíe este formulario de forma certificada o con acuse
+de recibo y acompañado de 18 Euros en metálico o cheque, a la dirección
+abajo indicada, recibirá por correo ordinario la clave de registro 
+de la aplicación.
+
+Remítalo a:
+
+			Daniel Sánchez Fuertes
+                    C/Fuente de Boladro, 7 - 2º B
+                      33.510  Pola de Siero (ASTURIAS)
+
+                       ¡ Gracias por su soporte !
